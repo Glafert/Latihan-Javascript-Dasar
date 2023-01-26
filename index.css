@@ -1,0 +1,29 @@
+body {
+    background-color: lightblue;
+  }
+  
+  #title {
+    font-family: verdana;
+    text-align: center;
+    font-size: 80px;
+    font-weight: bold;
+    margin-top: 50px;
+    color: rgb(182, 79, 79);
+  }
+  
+  h1 {
+    color: rgb(29, 42, 153);
+    text-align: center;
+    font-family: verdana;
+    font-size: 50px;
+    font-weight: bold;
+  }
+
+  h1.subText {
+    color: rgb(206, 49, 2);
+    text-align: center;
+    font-family: verdana;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
